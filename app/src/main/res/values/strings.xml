@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="initial_speed">0.0 km/h</string>
+    <string name="Current_Speed">Current Speed</string>
+    <string name="from_10_to_30">From 10 to 30</string>
+    <string name="from_30_to_10">From 30 to 10</string>
+    <string name="_0_s">0 S</string>
+</resources>
